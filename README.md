@@ -1,4 +1,4 @@
-# A-B-Testing-Campaign-Analysis
+# Analysis of Marketing Campaigns Using A/B Testing
 Domain: Healthcare
 
 Objective:
